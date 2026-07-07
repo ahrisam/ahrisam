@@ -5,9 +5,9 @@ I am a **Backend Engineer** and **IT Student** passionate about building scalabl
 ---
 
 ### 🚀 What I Do
-* 🛠️ **Backend Engineering:** Designing robust APIs, managing databases, and implementing business logic.
-* ☁️ **Cloud & DevOps:** Exploring cloud infrastructure (AWS S3) and modern deployment workflows.
-* 🤖 **AI Integration:** Experimenting with embedding AI-powered features and chatbots into web applications.
+*  **Backend Engineering:** Designing robust APIs, managing databases, and implementing business logic.
+*  **Cloud & DevOps:** Exploring cloud infrastructure (AWS S3) and modern deployment workflows.
+*  **AI Integration:** Experimenting with embedding AI-powered features and chatbots into web applications.
 
 ---
 
