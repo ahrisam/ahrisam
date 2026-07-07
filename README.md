@@ -1,37 +1,41 @@
-# 🛒 Dynamic E-Commerce Platform
+# Hi there, I'm Ahrisam 👋
 
-A robust, full-stack e-commerce application built using Django and enhanced with asynchronous client-side interactions. This project showcases structured database schemas, session-based state management, and semantic web design.
-
----
-
-## 🚀 Key Features
-
-*   **Product Management:** Dynamic catalog built with relational database models.
-*   **Asynchronous Shopping Cart:** Add, update, and remove items seamlessly without page reloads using **jQuery AJAX**.
-*   **Session Management:** Secure, server-side session-based cart tracking for guest and authenticated users.
-*   **Semantic UI:** A clean, accessible frontend built using modern HTML5, CSS3, and responsive design components.
+I am a **Backend Engineer** and **IT Student** passionate about building scalable, efficient, and robust server-side architectures. I love solving complex database problems, designing clean APIs, and optimizing web performance.
 
 ---
 
-## 🛠️ Tech Stack
-
-*   **Backend:** Python, Django Framework
-*   **Frontend:** HTML5, CSS3, JavaScript, jQuery
-*   **Database:** SQLite (Development) / PostgreSQL (Production ready)
+### 🚀 What I Do
+* 🛠️ **Backend Engineering:** Designing robust APIs, managing databases, and implementing business logic.
+* ☁️ **Cloud & DevOps:** Exploring cloud infrastructure (AWS S3) and modern deployment workflows.
+* 🤖 **AI Integration:** Experimenting with embedding AI-powered features and chatbots into web applications.
 
 ---
 
-## 💻 Getting Started
+###  Tech Stack & Tools
 
-Follow these steps to set up and run the project locally.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, HTML5, CSS3 |
+| **Frameworks** | Django, Django REST Framework |
+| **Databases** | PostgreSQL, SQLite |
+| **Tools & Hosting** | Git, GitHub, Vercel, Namecheap (DNS/SEO Management) |
 
-### Prerequisites
-*   Python 3.x
-*   `pip` (Python package installer)
+---
 
-### Installation
+### 📈 Current Projects & Focus
+*  **Ecommerce store:** Developing a robust e-commerce backend platform using Django.
+*  **ScaleUp Agency:** Leading the technical direction and backend development for web optimization and digital solutions.
+*  **SEO & Web Analytics:** Implementing advanced technical SEO (sitemaps, robots.txt, indexing) for live web applications.
 
-1. **Clone the repository:**
-```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+---
+
+### 📫 Connect with Me
+*  **LinkedIn:** [Your LinkedIn Profile Link]
+*  **Email:** [Your Email Address]
+*  **Portfolio:** [Your Portfolio Website Link]
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahrisam&show_icons=true&theme=gotham" alt="Ahrisam's GitHub stats" />
+</p>
