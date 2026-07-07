@@ -30,12 +30,12 @@ I am a **Backend Engineer** and **IT Student** passionate about building scalabl
 ---
 
 ### 📫 Connect with Me
-*  **LinkedIn:** [Your LinkedIn Profile Link]
-*  **Email:** [Your Email Address]
-*  **Portfolio:** [Your Portfolio Website Link]
+*  **LinkedIn:** www.linkedin.com/in/ahri-sam
+*  **Email:** ahrisam3@outlook.com
 
 ---
 
+<!-- Swapping 'github-readme-stats' to 'github-readme-stats-eight' -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahrisam&show_icons=true&theme=gotham" alt="Ahrisam's GitHub stats" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=ahrisam&show_icons=true&theme=gotham" alt="Ahrisam's GitHub stats" />
 </p>
