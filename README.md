@@ -1,4 +1,4 @@
-# Hi there, I'm Ahrisam 👋
+# Hi there, I'm Ahri Ssam 👋
 
 I am a **Backend Engineer** and **IT Student** passionate about building scalable, efficient, and robust server-side architectures. I love solving complex database problems, designing clean APIs, and optimizing web performance.
 
