@@ -4,7 +4,7 @@ I am a **Backend Engineer** and **IT Student** passionate about building scalabl
 
 ---
 
-### 🚀 What I Do
+### What I Do
 *  **Backend Engineering:** Designing robust APIs, managing databases, and implementing business logic.
 *  **Cloud & DevOps:** Exploring cloud infrastructure (AWS S3) and modern deployment workflows.
 *  **AI Integration:** Experimenting with embedding AI-powered features and chatbots into web applications.
@@ -22,13 +22,13 @@ I am a **Backend Engineer** and **IT Student** passionate about building scalabl
 
 ---
 
-### 📈 Current Projects & Focus
+### Current Projects & Focus
 *  **Ecommerce store:** Developing a robust e-commerce backend platform using Django.
 *  **ScaleUp Agency:** Leading the technical direction and backend development for web optimization and digital solutions.
 *  **SEO & Web Analytics:** Implementing advanced technical SEO (sitemaps, robots.txt, indexing) for live web applications.
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 *  **LinkedIn:** www.linkedin.com/in/ahri-sam
 *  **Email:** ahrisam3@outlook.com
