@@ -18,7 +18,7 @@ I am a **Backend Engineer** and **IT Student** passionate about building scalabl
 | **Languages** | Python, JavaScript, HTML5, CSS3 |
 | **Frameworks** | Django, Django REST Framework |
 | **Databases** | PostgreSQL, SQLite |
-| **Tools & Hosting** | Git, GitHub, Vercel, Namecheap (DNS/SEO Management) |
+| **Tools & Hosting** | Git, GitHub, Vercel, Namecheap (DNS/SEO Management), AWS EC2 |
 
 ---
 
